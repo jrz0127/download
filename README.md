@@ -20,3 +20,4 @@ Bookmark this page to download the latest versions in the future.
 $$
 a=s^2
 $$
+![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
